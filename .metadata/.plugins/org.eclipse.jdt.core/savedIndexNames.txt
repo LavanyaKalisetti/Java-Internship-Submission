@@ -1,7 +1,0 @@
-INDEX VERSION 1.134+C:\Users\kalis\OneDrive\Pictures\Desktop\Java_Internship_Submission\.metadata\.plugins\org.eclipse.jdt.core
-316344583.index
-1508840873.index
-4207606346.index
-2040644757.index
-398997195.index
-3984250477.index
